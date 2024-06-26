@@ -1,0 +1,18 @@
+.pral a{
+   color:#ffbc06;
+   text-align: start;
+}
+.pral p{
+    color:#ffbc06;
+    text-align: start;
+    margin: 0px;
+ }
+.klm{
+    background-color: #003366;
+    border-radius: 4px;
+    margin-right: 190px;
+}
+.klm:hover{
+    background-color: #003366;
+    box-shadow:0px 0px 5px black;
+}

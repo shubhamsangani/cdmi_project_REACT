@@ -1,0 +1,12 @@
+.cred a{
+    color: black;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+.cred a:hover{
+  color: #ffbc06;
+  text-decoration: none;
+}
+.cred{
+    max-height: 550px;
+}

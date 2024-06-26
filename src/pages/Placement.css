@@ -1,0 +1,28 @@
+.head-1{
+    text-align: start;
+    margin-bottom:1rem;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: 'Rubik', sans-serif;
+}
+.boldi{
+    font-weight: 600;
+    line-height: 1.2;
+}
+.paer{
+    text-align: start;
+    color: #888888;
+}
+.headline-1{
+    text-align: start;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: 'Rubik', sans-serif;
+}
+.boer{
+    border: 1px solid #dee2e6!important;
+    border-radius: 5px;
+}
+.boer:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+}

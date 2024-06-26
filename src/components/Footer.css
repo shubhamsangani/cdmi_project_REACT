@@ -1,0 +1,69 @@
+.bak{
+    background-color: #003366;
+    padding: 100px 0px;
+}
+.logo{
+    margin-bottom: 15px;
+    text-align: start;
+}
+.cal{
+    color: white;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+.tit{
+    text-align: start;
+    font-size:16px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.bac{
+    padding:5px 10px;
+    background-color: #044484;
+    border: 1px solid rgb(13, 41, 144);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    transition: 0.5s;
+    margin-right: 3px;
+}
+.yo{
+    text-align: start;
+}
+.yo a:hover{
+    color: #ffbc06;
+}
+.maj{
+    text-align: start;
+    padding: 0px;
+}
+.par{
+    margin-right:5px;
+}
+.maj li{
+    padding-bottom: 10px;
+}
+.maj li a:hover{
+    color: #ffbc06;
+    padding-left:5px;
+    transition:0.5s;
+}
+.aub{
+    text-align: start;
+    color: white;
+}
+.aub h6:hover{
+    color: #ffbc06;
+    text-decoration: underline;
+}
+.bgdark{
+    background-color: #072044;
+}
+.bfooter{
+    padding: 30px 0px;
+}
+.txz{
+    text-align: start;
+}

@@ -1,0 +1,45 @@
+.card-title a{
+    color: black;
+}
+.card-title a:hover{
+    color: #ffbc06;
+}
+.bef{
+    margin-top: 10px;
+}
+.codc:hover{
+    box-shadow:0px 4px 4px 1px rgb(203, 190, 190);
+    transition: 0.5s;
+}
+.medium_divider {
+    height: 50px;
+}
+.pagination {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 0.25rem;
+}
+.pagination li {
+    margin-right: 5px;
+}
+.page-item.active .page-link, .page-item .page-link:hover {
+    background-color: #FFBC06;
+    border-color: #FFBC06;
+    color: #fff;
+}
+.pagination .page-item a {
+    border: 2px solid #dee2e6;
+    border-radius: 4px;
+    color: #888888;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 36px;
+    padding: 0;
+}
+.mhi{
+    max-height: 230px;
+    min-height: 230px;
+} 

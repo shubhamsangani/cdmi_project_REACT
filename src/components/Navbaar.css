@@ -1,0 +1,135 @@
+img{
+    width: 70%;
+}
+.nv{
+    color: black;
+    font-size:14px;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bgc{
+    background-color: white;
+}
+.hm{
+    color: #ffbc06;
+}
+.nav-link:hover{
+    color: #ffbc06;
+}
+.dropdown-menu{
+    display: none;
+}
+.pos{
+   box-shadow: 0px 0px 5px #ccc;
+}
+.grou{
+    background-image: url(https://www.cdmi.in/assets/front/images/login_img.webp);
+    background-size:cover;
+    height:400px;
+    background-position: center center;
+    position: relative;
+}
+.grou::before {
+    background-color: rgba(0, 51, 102, 0.80);
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.headng{
+    position: absolute;
+    top: 30%;
+    left: 30px;
+    right: 30px;
+    color: white;
+}
+.headng h4{
+    line-height: 1.8;
+    font-weight: normal;
+}
+.tazx{
+    color: #ffbc06;
+    font-weight: bold;
+}
+.padding_eight_all{
+    padding:8%;
+}
+.lr_popup .close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    z-index: 99;
+}
+.close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+button.close {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.zise{
+    font-size: small;
+    padding: 5px;
+}
+.tab-content {
+    margin-top: 20px;
+}
+.form-control {
+    height: 47px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+.btn-default {
+    background-color: #FFBC06;
+    border: 2px solid #FFBC06;
+    color: #ffffff !important;
+    padding: 12px 30px;
+}
+.btn {
+    line-height: normal;
+    text-transform: capitalize;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.btn-default:hover {
+    background-color: #DF9C00;
+    border-color: #DF9C00;
+    color: #fff;
+}
+.btn-default::before {
+    content: "";
+    background-color: rgba(255, 255, 255, 0.2);
+    filter: blur(5px);
+    height: 100%;
+    width: 2em;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -4.5em;
+    transition: all 0.8s ease-in-out;
+}
+.btn-default:hover::before {
+    transform: skewX(-45deg) translateX(40em);
+}
+

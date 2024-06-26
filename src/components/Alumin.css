@@ -1,0 +1,72 @@
+.bacim{
+    background-image: url(https://www.cdmi.in/assets/front/images/happy-students.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.testim{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+.tesshepe img{
+    width: 100%;
+}
+.imehold{
+    position: relative;
+}
+.main{
+    padding: 50px 0px;
+}
+.hed h2{
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+.hed{
+    text-align: start;
+    margin: 30px 0px ;
+}
+.voc{
+    font-size:500%;
+    color: #ccc;
+}
+.owlnav{
+    position: absolute;
+    top: 20px;
+    right:90px;
+}
+.owlpre{
+    padding:9px 14px;
+    margin: 5px;
+    cursor: pointer;
+}
+.owlnex{
+    padding:9px 14px;
+    margin: 5px;
+    cursor: pointer;
+}
+.cov{
+    position: relative;
+    height: 100px;
+}
+.hov:hover{
+    color: #ffbc06;
+    transition: 0.5s;
+}
+.imsec img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.bl{
+    color: #003366;
+    text-align: start;
+}
+.yel{
+    color: #ffbc06;
+    text-transform: capitalize;
+}
